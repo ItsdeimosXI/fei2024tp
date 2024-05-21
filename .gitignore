@@ -1,3 +1,6 @@
 .env
 conf
 data
+data
+.vscode
+src/django/app/__pycache__
