@@ -3,4 +3,5 @@ conf
 data
 data
 .vscode
-src/django/app/__pycache__
+backend/django/app/__pycache__
+backend/django/aulas/__pycache__
